@@ -2,5 +2,4 @@ streamlit
 langchain
 langchain_groq
 langchain-community
-mysql
-mysqlclient
+mysql-connector-python
